@@ -1,14 +1,14 @@
 <annotation>
-	<folder>images-indo</folder>
+	<folder>images</folder>
 	<filename>7.jpg</filename>
-	<path>/home/ironman/license-plate-recognition/Prabhu-task/hebe-task/images-indo/7.jpg</path>
+	<path>/home/ironman/license-plate-recognition/Prabhu-task/sysu-shape-dataset-master/car/images/7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2592</width>
-		<height>1944</height>
-		<depth>1</depth>
+		<width>500</width>
+		<height>331</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,34 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>775</xmin>
-			<ymin>635</ymin>
-			<xmax>1828</xmax>
-			<ymax>1652</ymax>
+			<xmin>202</xmin>
+			<ymin>130</ymin>
+			<xmax>457</xmax>
+			<ymax>236</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>truck_side</name>
+		<name>table</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>236</xmin>
-			<ymin>2</ymin>
-			<xmax>800</xmax>
-			<ymax>1054</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>truck_frontside</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1942</xmin>
-			<ymin>304</ymin>
-			<xmax>2584</xmax>
-			<ymax>1094</ymax>
+			<xmin>234</xmin>
+			<ymin>202</ymin>
+			<xmax>473</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 </annotation>

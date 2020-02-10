@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>77.jpg</filename>
+	<path>/home/ironman/license-plate-recognition/Prabhu-task/sysu-shape-dataset-master/car/images/77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>344</ymin>
+			<xmax>312</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

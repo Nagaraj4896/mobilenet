@@ -1,26 +1,26 @@
 <annotation>
-	<folder>images-indo</folder>
+	<folder>images</folder>
 	<filename>2.jpg</filename>
-	<path>/home/ironman/license-plate-recognition/Prabhu-task/hebe-task/images-indo/2.jpg</path>
+	<path>/home/ironman/license-plate-recognition/Prabhu-task/sysu-shape-dataset-master/car/images/2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2592</width>
-		<height>1944</height>
-		<depth>1</depth>
+		<width>500</width>
+		<height>305</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>596</ymin>
-			<xmax>2202</xmax>
-			<ymax>1943</ymax>
+			<xmin>70</xmin>
+			<ymin>115</ymin>
+			<xmax>444</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 </annotation>
